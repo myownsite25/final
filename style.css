@@ -1,0 +1,26 @@
+body {
+	background-color:#D9FFA8;
+}
+h1{
+	color: #5FFF26;
+}
+hr{
+	color:#039700
+}
+nav{
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 61px;
+	word-spacing: 80px;
+}
+h4{
+	font-size: 40px;
+}
+table{
+	font-size: 50px;
+}
+p{
+	font-size: 30px; 
+}
